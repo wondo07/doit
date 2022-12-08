@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-homework-exception" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-homework-jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-homework-tx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-reference-jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-template-testing" vcs="Git" />
+  </component>
+</project>
